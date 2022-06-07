@@ -9,8 +9,6 @@
   <a href="{% url 'blogger_signup' %}">Crear Cuenta</a>
 {% endif %}
 
-
-
 {% if object_list %}
     {% for blog in object_list %}
     <li>
@@ -22,9 +20,10 @@
     </li>
     {% endfor %}
 {% else %}
-  <h1> Maldito Django, Html y Git sean mas facil</h1>
+
+  <h1> Proyecto Django</h1>
   <body>
     <img src= "http://www.ahmagazine.es/wp-content/uploads/2017/11/Simpsons_10_19.jpg" />
   </body>
-  
+
 {% endif %}
