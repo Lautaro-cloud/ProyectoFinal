@@ -31,10 +31,11 @@ Ahora hemos entrado en la pagina:
 
 Vamos a crear un nuevo usuario:
 1. Nos dirigimos a "Crear Cuenta"
-2. ![image](https://user-images.githubusercontent.com/79726556/172502687-b976e6a3-328d-4f66-a33b-56c4903c6955.png)
-3. Creamos una cuenta con nuestros datos:
+![image](https://user-images.githubusercontent.com/79726556/172502687-b976e6a3-328d-4f66-a33b-56c4903c6955.png)
+2. Creamos una cuenta con nuestros datos:
 ![image](https://user-images.githubusercontent.com/79726556/172502832-eafeb873-9a1d-4d4b-9641-dd47d08ee09b.png)
-4. Automaticamente que hemos terminado de crear nuestra cuenta, nos pedira ingresar a nuestra cuenta por primera vez: ![image](https://user-images.githubusercontent.com/79726556/172503208-816ee87e-17fa-40c6-a3f6-b71869d8826a.png)
+3. Automaticamente que hemos terminado de crear nuestra cuenta, nos pedira ingresar a nuestra cuenta por primera vez:
+![image](https://user-images.githubusercontent.com/79726556/172503208-816ee87e-17fa-40c6-a3f6-b71869d8826a.png)
 
 Ahora entraste a tu cuenta, esta es la pagina de bienvenida:
 ![image](https://user-images.githubusercontent.com/79726556/172503406-bc73b5e9-293a-4886-bbde-57c7cae3549f.png)
